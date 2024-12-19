@@ -22,5 +22,7 @@
   },
   "dependencies": {
     "@twa-dev/sdk": "github:twa-dev/sdk"
+  "devDependencies": {
+    "@twa-dev/sdk": "^8.0.1"
   }
 }

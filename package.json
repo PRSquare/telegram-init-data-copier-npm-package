@@ -1,5 +1,5 @@
 {
-  "name": "telegram-ini-data-copier",
+  "name": "telegram-init-data-copier",
   "version": "1.0.0",
   "description": "Util to copy/paste telegram init data and user data ",
   "keywords": [

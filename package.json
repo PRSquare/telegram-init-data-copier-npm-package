@@ -1,0 +1,26 @@
+{
+  "name": "telegram-ini-data-copier",
+  "version": "1.0.0",
+  "description": "Util to copy/paste telegram init data and user data ",
+  "keywords": [
+    "telegram"
+  ],
+  "homepage": "https://github.com/PRSquare/telegram-init-data-copier-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/PRSquare/telegram-init-data-copier-npm-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRSquare/telegram-init-data-copier-npm-package.git"
+  },
+  "license": "ISC",
+  "author": "Ivan Loznitsa <loz.ivan22@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@twa-dev/sdk": "github:twa-dev/sdk"
+  }
+}
